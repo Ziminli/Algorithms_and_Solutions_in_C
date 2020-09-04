@@ -1,1 +1,1 @@
-# Algorithms_and_Solutions_in_C
+# Problem Solutions in C
